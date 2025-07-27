@@ -37,9 +37,9 @@ Using a **hybrid model approach (SARIMAX + LSTM)**, this solution integrates tim
 ### 🖥️ Visualization & Dashboards
 - Built with **Power BI**  
 - Dashboard 1: Executive KPIs
-- ![KPI Dashboard](images/Dashboard 1.png)
+- ![KPI Dashboard](images/Dashboard_1.png)
 - Dashboard 2: Store-level performance insights
-- ![Store Level Performance](images/dashboard_kpi.png)
+- ![Store Level Performance](images/dashboard_2.png)
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **By Thobeka Jali – Data Scientist**
 
-![Forecast Banner](https://img.freepik.com/free-photo/data-analytics-financial-graph_53876-165397.jpg) 
+
 
 ---
 
@@ -81,7 +81,7 @@ Using a **hybrid model approach (SARIMAX + LSTM)**, this solution integrates tim
 ---
 
 ## 📌 Project Structure
-
+````
 📁 /retail-forecasting-walmart
 ├── data/ # Cleaned and enriched datasets
 ├── notebooks/ # Jupyter notebooks for modeling and EDA
@@ -89,10 +89,7 @@ Using a **hybrid model approach (SARIMAX + LSTM)**, this solution integrates tim
 ├── models/ # Trained SARIMAX and LSTM models
 ├── README.md # This file
 └── requirements.txt # Python dependencies
-
-yaml
-Copy
-Edit
+````
 
 ---
 
@@ -116,8 +113,8 @@ For detailed methodology, insights, dashboards, and forecasting visualizations:
 
 **Thobeka Jali**  
 Data Scientist | Retail Analytics | Predictive Modeling  
-Connect on [LinkedIn](https://www.linkedin.com/)  
-Portfolio: [yourname.github.io](https://yourname.github.io)
+Connect on [Email](thobekaj63@gmail.com)  
+Portfolio: [thobekanelisiwejali.github.io](https://yourname.github.io)
 
 ---
 

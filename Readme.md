@@ -2,7 +2,7 @@
 
 > **By Thobeka Jali – Data Scientist**
 
-
+Refer to project site [https://retail-forecasting-viz.lovable.app]
 
 ---
 
